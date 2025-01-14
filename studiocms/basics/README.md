@@ -1,0 +1,1 @@
+# StudioCMS - Basics Template
