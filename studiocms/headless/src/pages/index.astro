@@ -1,0 +1,11 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { Debug } from 'astro:components';
+import SDK from 'studiocms:sdk';
+
+const pages = await SDK.GET.database.pages()
+---
+
+<Layout>
+	<Debug studiocmsSDKPages={pages}></Debug>
+</Layout>
