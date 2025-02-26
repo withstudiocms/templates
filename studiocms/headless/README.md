@@ -9,4 +9,4 @@ Quick start with StudioCMS
 
 Tweak your config settings for StudioCMS in the `studiocms.config.mjs` file.
 
-Deploy!
+Checkout the `src/pages/index.astro` for a basic example of our SDK and [read the docs](https://docs.studiocms.dev)
