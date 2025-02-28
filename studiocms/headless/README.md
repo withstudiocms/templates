@@ -1,12 +1,45 @@
 # StudioCMS - Headless Template
 
-Quick start with StudioCMS
+```bash
+npm create studiocms@latest -- --template studiocms/headless
+```
 
-- Run the install command with your favorite package manager
-- Make sure your `.env` variables are set (Use the .env.demo or `studiocms` CLI)
-- Push your DB schema `pnpm db:push`
-- Start dev server `pnpm dev` and go through the First time setup ( http://localhost:4321/start )
+Welcome to your new StudioCMS project! Here's a quick checklist to get you started:
 
-Tweak your config settings for StudioCMS in the `studiocms.config.mjs` file.
+- [x] Run the install command with your favorite package manager
+- [ ] Make sure your [`.env` variables](https://docs.studiocms.dev/start-here/environment-variables/) are set
+- [ ] Push your DB schema by running `npm run db:push`
+- [ ] Start dev server (`npm run dev`) and go through the first time setup
+- [ ] Open `src/pages/index.astro` for a basic example of how to fetch data from StudioCMS and [read the docs](https://docs.studiocms.dev) to find out more!
 
-Checkout the `src/pages/index.astro` for a basic example of our SDK and [read the docs](https://docs.studiocms.dev)
+Once you're done, you can tweak your configuration for StudioCMS in the `studiocms.config.mjs` file.
+
+## 📂 Project Structure
+
+Inside your new project, you'll find the following folders and files. Here's what you need to know:
+
+- Since StudioCMS is an Astro Integration, this is a normal Astro project.
+- All configuration for StudioCMS is done in the `studiocms.config.mjs` file.
+- The `index.astro` page provides a minimal example of how to use our SDK to fetch data.
+
+```
+public/
+└── studiocms-resources/
+    ├── auth/
+    │   └── studiocms-logo.glb
+    └── core/
+        ├── favicon-dark.png
+        ├── favicon-light.png
+        └── favicon.svg
+src/
+├── layouts/
+│   └── Layout.astro
+└── pages/
+    └── index.astro
+.env.demo
+README.md
+astro.config.mjs
+package.json
+studiocms.config.mjs
+tsconfig.json
+```
