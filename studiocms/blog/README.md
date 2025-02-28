@@ -1,12 +1,16 @@
 # StudioCMS - Blog Template
 
-Quick start with StudioCMS
+This is a headful setup for StudioCMS - the frontend will be generated for you, using `@studiocms/blog`. 
 
-- Run the install command with your favorite package manager
-- Make sure your `.env` variables are set (Use the .env.demo or `studiocms` CLI)
-- Push your DB schema `pnpm db:push`
-- Start dev server `pnpm dev` and go through the First time setup ( http://localhost:4321/start )
+```bash
+npm create studiocms@latest -- --template studiocms/blog
+```
 
-Tweak your config settings for StudioCMS in the `studiocms.config.mjs` file.
+Welcome to your new StudioCMS project! Here's a quick checklist to get you started:
 
-Deploy!
+- [x] Run the install command with your favorite package manager
+- [ ] Make sure your [`.env` variables](https://docs.studiocms.dev/start-here/environment-variables/) are set
+- [ ] Push your DB schema by running `npm run db:push`
+- [ ] Start dev server (`npm run dev`) and go through the first time setup
+
+Once you're done, you can tweak your configuration for StudioCMS in the `studiocms.config.mjs` file and start authoring content!
