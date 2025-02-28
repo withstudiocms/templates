@@ -1,7 +1,7 @@
 # StudioCMS - Headless Template
 
 ```bash
-npm create studiocms@latest -- --template studiocms/basics
+npm create studiocms@latest -- --template studiocms/headless
 ```
 
 Welcome to your new StudioCMS project! Here's a quick checklist to get you started:
