@@ -15,6 +15,7 @@ Welcome to your new StudioCMS project! Here's a quick checklist to get you start
 Once you're done, you can tweak your configuration for StudioCMS in the `studiocms.config.mjs` file.
 
 ## 📂 Project Structure
+
 Inside your new project, you'll find the following folders and files. Here's what you need to know:
 
 - Since StudioCMS is an Astro Integration, this is a normal Astro project.
