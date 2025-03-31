@@ -17,9 +17,9 @@
   "dependencies": {
     "@astrojs/db": "^0.14.8",
     "@astrojs/node": "^9.1.2",
-    "@studiocms/devapps": "^0.1.0-beta.13",
+    "@studiocms/devapps": "^0.1.0-beta.14",
     "astro": "^5.5.0",
     "sharp": "^0.33.5",
-    "studiocms": "^0.1.0-beta.13"
+    "studiocms": "^0.1.0-beta.14"
   }
 }
