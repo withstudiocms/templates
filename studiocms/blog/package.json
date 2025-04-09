@@ -15,12 +15,12 @@
     "typescript": "^5.7.3"
   },
   "dependencies": {
-    "@astrojs/db": "^0.14.8",
-    "@astrojs/node": "^9.1.2",
-    "@studiocms/blog": "^0.1.0-beta.14",
-    "@studiocms/devapps": "^0.1.0-beta.14",
-    "astro": "^5.5.0",
+    "@astrojs/db": "^0.14.10",
+    "@astrojs/node": "^9.1.3",
+    "@studiocms/blog": "^0.1.0-beta.15",
+    "@studiocms/devapps": "^0.1.0-beta.15",
+    "astro": "^5.6.0",
     "sharp": "^0.33.5",
-    "studiocms": "^0.1.0-beta.14"
+    "studiocms": "^0.1.0-beta.15"
   }
 }
