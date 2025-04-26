@@ -18,10 +18,10 @@
 	"dependencies": {
 		"@astrojs/db": "^0.14.11",
 		"@astrojs/node": "^9.2.0",
-		"@studiocms/blog": "^0.1.0-beta.16",
-		"@studiocms/devapps": "^0.1.0-beta.16",
+		"@studiocms/blog": "^0.1.0-beta.17",
+		"@studiocms/devapps": "^0.1.0-beta.17",
 		"astro": "^5.7.3",
 		"sharp": "^0.34.1",
-		"studiocms": "^0.1.0-beta.16"
+		"studiocms": "^0.1.0-beta.17"
 	}
 }
