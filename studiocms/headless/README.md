@@ -24,13 +24,7 @@ Inside your new project, you'll find the following folders and files. Here's wha
 
 ```
 public/
-└── studiocms-resources/
-    ├── auth/
-    │   └── studiocms-logo.glb
-    └── core/
-        ├── favicon-dark.png
-        ├── favicon-light.png
-        └── favicon.svg
+└── favicon.svg
 src/
 ├── layouts/
 │   └── Layout.astro

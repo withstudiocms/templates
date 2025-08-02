@@ -18,11 +18,11 @@
 	"dependencies": {
 		"@astrojs/db": "^0.15.1",
 		"@astrojs/node": "^9.3.1",
-		"@studiocms/blog": "^0.1.0-beta.22",
-		"@studiocms/devapps": "^0.1.0-beta.22",
-		"@studiocms/md": "^0.1.0-beta.22",
+		"@studiocms/blog": "^0.1.0-beta.23",
+		"@studiocms/devapps": "^0.1.0-beta.23",
+		"@studiocms/md": "^0.1.0-beta.23",
 		"astro": "^5.12.6",
 		"sharp": "^0.34.3",
-		"studiocms": "^0.1.0-beta.22"
+		"studiocms": "^0.1.0-beta.23"
 	}
 }
