@@ -17,12 +17,12 @@
 	},
 	"dependencies": {
 		"@astrojs/db": "^0.17.1",
-		"@astrojs/node": "^9.4.0",
-		"@studiocms/blog": "^0.1.0-beta.24",
-		"@studiocms/devapps": "^0.1.0-beta.24",
-		"@studiocms/md": "^0.1.0-beta.24",
-		"astro": "^5.12.9",
+		"@astrojs/node": "^9.4.3",
+		"@studiocms/blog": "^0.1.0-beta.25",
+		"@studiocms/devapps": "^0.1.0-beta.25",
+		"@studiocms/md": "^0.1.0-beta.25",
+		"astro": "^5.13.3",
 		"sharp": "^0.34.3",
-		"studiocms": "^0.1.0-beta.24"
+		"studiocms": "^0.1.0-beta.25"
 	}
 }
