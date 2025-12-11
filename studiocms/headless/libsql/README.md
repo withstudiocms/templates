@@ -8,7 +8,7 @@ Welcome to your new StudioCMS project! Here's a quick checklist to get you start
 
 - [x] Run the install command with your favorite package manager
 - [ ] Make sure your [`.env` variables](https://docs.studiocms.dev/start-here/environment-variables/) are set
-- [ ] Push your DB schema by running `npm run db:push`
+- [ ] Push your DB schema by running `npm run migrate`
 - [ ] Start dev server (`npm run dev`) and go through the first time setup
 - [ ] Open `src/pages/index.astro` for a basic example of how to fetch data from StudioCMS and [read the docs](https://docs.studiocms.dev) to find out more!
 

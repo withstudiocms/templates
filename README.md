@@ -5,4 +5,3 @@ This repo holds public StudioCMS Ecosystem project templates which are used to c
 Current Templates:
 
 - [`StudioCMS`](./studiocms/)
-- [`@studiocms/ui`](./studiocms-ui/)

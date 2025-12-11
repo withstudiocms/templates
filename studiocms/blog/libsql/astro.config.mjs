@@ -1,6 +1,4 @@
-import db from '@astrojs/db';
 import node from '@astrojs/node';
-import devApps from '@studiocms/devapps';
 import { defineConfig } from 'astro/config';
 import studioCMS from 'studiocms';
 
@@ -12,5 +10,5 @@ export default defineConfig({
 	security: {
 		checkOrigin: false, // This depends on your hosting provider
 	},
-	integrations: [db(), studioCMS(), devApps()],
+	integrations: [studioCMS()],
 });

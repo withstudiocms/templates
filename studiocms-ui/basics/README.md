@@ -1,1 +1,0 @@
-# StudioCMS UI - Basics Template
