@@ -4,5 +4,8 @@ import md from '@studiocms/md';
 
 export default defineStudioCMSConfig({
 	dbStartPage: true,
+	db: {
+		dialect: 'mysql',
+	},
 	plugins: [md(), blog()],
 });

@@ -8,5 +8,8 @@ import html from '@studiocms/html';
 
 export default defineStudioCMSConfig({
 	dbStartPage: true,
+	db: {
+		dialect: 'mysql',
+	},
 	plugins: [md(), html()],
 });
