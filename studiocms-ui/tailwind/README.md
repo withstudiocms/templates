@@ -1,1 +1,0 @@
-# StudioCMS UI - Tailwind Template
