@@ -18,11 +18,11 @@
 	"dependencies": {
 		"@astrojs/node": "^9.5.1",
 		"@libsql/client": "^0.15.15",
-		"@libsql/kysely-libsql": "^0.4.1",
-		"@studiocms/blog": "^0.1.0-beta.31",
-		"@studiocms/md": "^0.1.0-beta.31",
+		"@studiocms/blog": "^0.1.0-beta.32",
+		"@studiocms/md": "^0.1.0-beta.32",
 		"astro": "^5.16.5",
+		"kysely-turso": "^0.1.1",
 		"sharp": "^0.34.3",
-		"studiocms": "^0.1.0-beta.31"
+		"studiocms": "^0.1.0-beta.32"
 	}
 }
