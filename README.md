@@ -1,7 +1,3 @@
-# StudioCMS Ecosystem Project Templates
+# MOVED
 
-This repo holds public StudioCMS Ecosystem project templates which are used to create new Astro projects using our integrations and projects.
-
-Current Templates:
-
-- [`StudioCMS`](./studiocms/)
+StudioCMS Templates have been moved to the [`withstudiocms/studiocms`](https://github.com/withstudiocms/studiocms/) repository.
